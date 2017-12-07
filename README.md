@@ -1,25 +1,9 @@
-# Mr-Murrayyy-like-currayyy
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-    background-color: lightblue;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
-p {
-    font-family: verdana;
-    font-size: 20px;
-}
-</style>
+<title>Page Title</title>
 </head>
 <body>
-
 
 <h1>Welcome back Mr Murray, we are excited to see our next coder!!</h1>
 <h2> We hope you didn't miss us too much!</h2>
@@ -28,3 +12,4 @@ p {
 
 </body>
 </html>
+
